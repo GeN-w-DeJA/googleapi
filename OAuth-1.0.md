@@ -1,4 +1,4 @@
-# OAuth 1.0a and the Google OAuth Client Library for Java#
+# OAuth 1.0a and the Google OAuth Client Library for Java
 
 [OAuth 1.0](http://tools.ietf.org/html/rfc5849) is a standard specification for
 allowing end users to securely authorize a client application to access protected
